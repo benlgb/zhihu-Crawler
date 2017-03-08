@@ -1,0 +1,7 @@
+[2017-02-22 20:14:30 MiddleWare.py(59)] TypeError: 'NoneType' object has no attribute '__getitem__'
+[2017-02-22 20:14:52 MiddleWare.py(59)] TypeError: 'NoneType' object has no attribute '__getitem__'
+[2017-02-22 20:15:41 MiddleWare.py(59)] TypeError: 'NoneType' object has no attribute '__getitem__'
+[2017-02-22 20:16:10 MiddleWare.py(59)] ValueError: do_handshake_on_connect should not be specified for non-blocking sockets
+[2017-02-22 20:17:03 MiddleWare.py(59)] ValueError: do_handshake_on_connect should not be specified for non-blocking sockets
+[2017-02-22 20:17:31 MiddleWare.py(59)] ValueError: do_handshake_on_connect should not be specified for non-blocking sockets
+[2017-02-22 20:17:50 MiddleWare.py(59)] ValueError: do_handshake_on_connect should not be specified for non-blocking sockets
